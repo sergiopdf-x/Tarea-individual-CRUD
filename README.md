@@ -1,4 +1,4 @@
-## EXPPLICACION DEL SISTEMA
+## EXPLICACION DEL SISTEMA
 Este proyecto nos permite registrar y administrar personas pertenecientes a una institución
 educativa mediante las operaciones del CRUD (Crear, Leer, Actualizar, Eliminar)
 ## HERENCIA
